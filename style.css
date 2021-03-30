@@ -1,0 +1,24 @@
+
+
+.button {
+  background-color: #4CAF50;
+    background: linear-gradient(180deg, rgba(255,0,0,1) 0%, rgba(23,23,223,1) 50%, rgba(254,255,0,1) 100%);
+  border: none;
+  border: 3px solid black;
+    border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+   .button:hover{border: 5px solid blue; };
+}
+.active    {
+    border: 5px solid red;
+    
+ 
+}
+.button:hover{border: 5px solid blue; };
